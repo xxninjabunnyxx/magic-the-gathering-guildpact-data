@@ -1,0 +1,118 @@
+---
+object: card
+id: 342dcdde-e4cc-4a49-a818-9283002aba1a
+oracle_id: 92bac34e-2045-4331-842f-185711c1ac56
+multiverse_ids:
+- 96970
+mtgo_id: 23795
+mtgo_foil_id: 23796
+tcgplayer_id: 13776
+cardmarket_id: 13258
+name: Skarrg, the Rage Pits
+lang: en
+released_at: '2006-02-03'
+uri: https://api.scryfall.com/cards/342dcdde-e4cc-4a49-a818-9283002aba1a
+scryfall_uri: https://scryfall.com/card/gpt/163/skarrg-the-rage-pits?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/4/342dcdde-e4cc-4a49-a818-9283002aba1a.jpg?1593273010
+  normal: https://cards.scryfall.io/normal/front/3/4/342dcdde-e4cc-4a49-a818-9283002aba1a.jpg?1593273010
+  large: https://cards.scryfall.io/large/front/3/4/342dcdde-e4cc-4a49-a818-9283002aba1a.jpg?1593273010
+  png: https://cards.scryfall.io/png/front/3/4/342dcdde-e4cc-4a49-a818-9283002aba1a.png?1593273010
+  art_crop: https://cards.scryfall.io/art_crop/front/3/4/342dcdde-e4cc-4a49-a818-9283002aba1a.jpg?1593273010
+  border_crop: https://cards.scryfall.io/border_crop/front/3/4/342dcdde-e4cc-4a49-a818-9283002aba1a.jpg?1593273010
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: |-
+  {T}: Add {C}.
+  {R}{G}, {T}: Target creature gets +1/+1 and gains trample until end of turn.
+colors: []
+color_identity:
+- G
+- R
+keywords: []
+produced_mana:
+- C
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 594b4d09-8ce1-494d-bdb2-842c124bd087
+set: gpt
+set_name: Guildpact
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/594b4d09-8ce1-494d-bdb2-842c124bd087
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Agpt&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/gpt?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/342dcdde-e4cc-4a49-a818-9283002aba1a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A92bac34e-2045-4331-842f-185711c1ac56&unique=prints
+collector_number: '163'
+digital: false
+rarity: uncommon
+watermark: gruul
+flavor_text: |-
+  "This palace will be our fire-spit, and roasted prince our victory meal. Send in the torch-pigs!"
+  —Ghut Rak, Gruul guildmage
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Martina Pilcerova
+artist_ids:
+- 30fead7c-da53-4c1b-b514-4be6e5ce487c
+illustration_id: 5ecf0f8b-2cd2-4317-94c0-d72f6f4c227c
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 2219
+penny_rank: 3541
+prices:
+  usd: '1.27'
+  usd_foil: '13.24'
+  usd_etched: 
+  eur: '0.15'
+  eur_foil: '0.50'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=96970
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Skarrg%2C+the+Rage+Pits&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Skarrg%2C+the+Rage+Pits&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Skarrg%2C+the+Rage+Pits
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/13776?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Skarrg%2C+the+Rage+Pits&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/23795?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,118 @@
+---
+object: card
+id: cb5a61f8-aab1-48d7-aebb-cf500ac5cb0e
+oracle_id: 75645b1f-0e12-4a05-b47f-0d2e2616c3ca
+multiverse_ids:
+- 96837
+mtgo_id: 23639
+mtgo_foil_id: 23640
+tcgplayer_id: 13702
+cardmarket_id: 13184
+name: Gruul Guildmage
+lang: en
+released_at: '2006-02-03'
+uri: https://api.scryfall.com/cards/cb5a61f8-aab1-48d7-aebb-cf500ac5cb0e
+scryfall_uri: https://scryfall.com/card/gpt/144/gruul-guildmage?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/b/cb5a61f8-aab1-48d7-aebb-cf500ac5cb0e.jpg?1593272883
+  normal: https://cards.scryfall.io/normal/front/c/b/cb5a61f8-aab1-48d7-aebb-cf500ac5cb0e.jpg?1593272883
+  large: https://cards.scryfall.io/large/front/c/b/cb5a61f8-aab1-48d7-aebb-cf500ac5cb0e.jpg?1593272883
+  png: https://cards.scryfall.io/png/front/c/b/cb5a61f8-aab1-48d7-aebb-cf500ac5cb0e.png?1593272883
+  art_crop: https://cards.scryfall.io/art_crop/front/c/b/cb5a61f8-aab1-48d7-aebb-cf500ac5cb0e.jpg?1593272883
+  border_crop: https://cards.scryfall.io/border_crop/front/c/b/cb5a61f8-aab1-48d7-aebb-cf500ac5cb0e.jpg?1593272883
+mana_cost: "{R/G}{R/G}"
+cmc: 2.0
+type_line: Creature — Human Shaman
+oracle_text: |-
+  ({R/G} can be paid with either {R} or {G}.)
+  {3}{R}, Sacrifice a land: Gruul Guildmage deals 2 damage to target player or planeswalker.
+  {3}{G}: Target creature gets +2/+2 until end of turn.
+power: '2'
+toughness: '2'
+colors:
+- G
+- R
+color_identity:
+- G
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 594b4d09-8ce1-494d-bdb2-842c124bd087
+set: gpt
+set_name: Guildpact
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/594b4d09-8ce1-494d-bdb2-842c124bd087
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Agpt&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/gpt?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/cb5a61f8-aab1-48d7-aebb-cf500ac5cb0e/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A75645b1f-0e12-4a05-b47f-0d2e2616c3ca&unique=prints
+collector_number: '144'
+digital: false
+rarity: uncommon
+watermark: gruul
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Paolo Parente
+artist_ids:
+- d48dd097-720d-476a-8722-6a02854ae28b
+illustration_id: 27123545-6b79-4394-a961-95f0a37a10c6
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 19418
+penny_rank: 7627
+prices:
+  usd: '0.24'
+  usd_foil: '0.39'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.25'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=96837
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Gruul+Guildmage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Gruul+Guildmage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Gruul+Guildmage
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/13702?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Gruul+Guildmage&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/23639?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

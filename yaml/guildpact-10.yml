@@ -1,0 +1,113 @@
+---
+object: card
+id: efc58757-abcc-41c9-b4d2-e70e9f387cbb
+oracle_id: 971f7b30-0088-4e12-bc1a-262acc7f5f90
+multiverse_ids:
+- 107699
+mtgo_id: 23933
+mtgo_foil_id: 23934
+tcgplayer_id: 13725
+cardmarket_id: 13207
+name: Leyline of the Meek
+lang: en
+released_at: '2006-02-03'
+uri: https://api.scryfall.com/cards/efc58757-abcc-41c9-b4d2-e70e9f387cbb
+scryfall_uri: https://scryfall.com/card/gpt/10/leyline-of-the-meek?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/f/efc58757-abcc-41c9-b4d2-e70e9f387cbb.jpg?1593271879
+  normal: https://cards.scryfall.io/normal/front/e/f/efc58757-abcc-41c9-b4d2-e70e9f387cbb.jpg?1593271879
+  large: https://cards.scryfall.io/large/front/e/f/efc58757-abcc-41c9-b4d2-e70e9f387cbb.jpg?1593271879
+  png: https://cards.scryfall.io/png/front/e/f/efc58757-abcc-41c9-b4d2-e70e9f387cbb.png?1593271879
+  art_crop: https://cards.scryfall.io/art_crop/front/e/f/efc58757-abcc-41c9-b4d2-e70e9f387cbb.jpg?1593271879
+  border_crop: https://cards.scryfall.io/border_crop/front/e/f/efc58757-abcc-41c9-b4d2-e70e9f387cbb.jpg?1593271879
+mana_cost: "{2}{W}{W}"
+cmc: 4.0
+type_line: Enchantment
+oracle_text: |-
+  If Leyline of the Meek is in your opening hand, you may begin the game with it on the battlefield.
+  Creature tokens get +1/+1.
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 594b4d09-8ce1-494d-bdb2-842c124bd087
+set: gpt
+set_name: Guildpact
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/594b4d09-8ce1-494d-bdb2-842c124bd087
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Agpt&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/gpt?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/efc58757-abcc-41c9-b4d2-e70e9f387cbb/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A971f7b30-0088-4e12-bc1a-262acc7f5f90&unique=prints
+collector_number: '10'
+digital: false
+rarity: rare
+flavor_text: Where strength and humility converge.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mark Zug
+artist_ids:
+- 48e2b98c-5467-4671-bd42-4c3746115117
+illustration_id: 41cf6050-76fe-4bf5-a347-ed47031da633
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 13777
+penny_rank: 2422
+prices:
+  usd: '1.75'
+  usd_foil: '3.88'
+  usd_etched: 
+  eur: '0.33'
+  eur_foil: '0.15'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107699
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Leyline+of+the+Meek&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Leyline+of+the+Meek&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Leyline+of+the+Meek
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/13725?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Leyline+of+the+Meek&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/23933?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

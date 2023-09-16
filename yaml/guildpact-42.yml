@@ -1,0 +1,114 @@
+---
+object: card
+id: a1bdfb7d-029d-4a70-8ae3-ef9a27e729c3
+oracle_id: c1b8cfe9-e8fc-4321-94ce-86ab1f1ae2d0
+multiverse_ids:
+- 96860
+mtgo_id: 23671
+mtgo_foil_id: 23672
+tcgplayer_id: 13805
+cardmarket_id: 13287
+name: Vertigo Spawn
+lang: en
+released_at: '2006-02-03'
+uri: https://api.scryfall.com/cards/a1bdfb7d-029d-4a70-8ae3-ef9a27e729c3
+scryfall_uri: https://scryfall.com/card/gpt/42/vertigo-spawn?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/1/a1bdfb7d-029d-4a70-8ae3-ef9a27e729c3.jpg?1593272136
+  normal: https://cards.scryfall.io/normal/front/a/1/a1bdfb7d-029d-4a70-8ae3-ef9a27e729c3.jpg?1593272136
+  large: https://cards.scryfall.io/large/front/a/1/a1bdfb7d-029d-4a70-8ae3-ef9a27e729c3.jpg?1593272136
+  png: https://cards.scryfall.io/png/front/a/1/a1bdfb7d-029d-4a70-8ae3-ef9a27e729c3.png?1593272136
+  art_crop: https://cards.scryfall.io/art_crop/front/a/1/a1bdfb7d-029d-4a70-8ae3-ef9a27e729c3.jpg?1593272136
+  border_crop: https://cards.scryfall.io/border_crop/front/a/1/a1bdfb7d-029d-4a70-8ae3-ef9a27e729c3.jpg?1593272136
+mana_cost: "{1}{U}"
+cmc: 2.0
+type_line: Creature — Illusion
+oracle_text: |-
+  Defender
+  Whenever Vertigo Spawn blocks a creature, tap that creature. That creature doesn't untap during its controller's next untap step.
+power: '0'
+toughness: '3'
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Defender
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 594b4d09-8ce1-494d-bdb2-842c124bd087
+set: gpt
+set_name: Guildpact
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/594b4d09-8ce1-494d-bdb2-842c124bd087
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Agpt&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/gpt?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a1bdfb7d-029d-4a70-8ae3-ef9a27e729c3/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac1b8cfe9-e8fc-4321-94ce-86ab1f1ae2d0&unique=prints
+collector_number: '42'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Ittoku
+artist_ids:
+- d3a47c28-84e9-4b53-a236-5066ae1bb62f
+illustration_id: fff3a549-7784-46f1-b3e5-a5f86ce8c862
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 19776
+prices:
+  usd: '0.12'
+  usd_foil: '0.37'
+  usd_etched: 
+  eur: '0.15'
+  eur_foil: '0.15'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=96860
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Vertigo+Spawn&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Vertigo+Spawn&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Vertigo+Spawn
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/13805?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Vertigo+Spawn&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/23671?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

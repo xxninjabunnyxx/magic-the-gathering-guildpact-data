@@ -1,0 +1,21 @@
+---
+object: set
+id: 594b4d09-8ce1-494d-bdb2-842c124bd087
+code: gpt
+mtgo_code: gpt
+arena_code: gpt
+tcgplayer_id: 55
+name: Guildpact
+uri: https://api.scryfall.com/sets/594b4d09-8ce1-494d-bdb2-842c124bd087
+scryfall_uri: https://scryfall.com/sets/gpt
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Agpt&unique=prints
+released_at: '2006-02-03'
+set_type: expansion
+card_count: 167
+printed_size: 165
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: rav
+block: Ravnica
+icon_svg_uri: https://svgs.scryfall.io/sets/gpt.svg?1694404800

@@ -1,0 +1,121 @@
+---
+object: card
+id: 14fd3734-8c28-4bd0-b202-eee1ab98c328
+oracle_id: e9e56b1d-5ad2-4807-8c4c-1a1a6a25ecbf
+multiverse_ids:
+- 96903
+mtgo_id: 23719
+mtgo_foil_id: 23720
+tcgplayer_id: 13806
+cardmarket_id: 13288
+name: Wee Dragonauts
+lang: en
+released_at: '2006-02-03'
+uri: https://api.scryfall.com/cards/14fd3734-8c28-4bd0-b202-eee1ab98c328
+scryfall_uri: https://scryfall.com/card/gpt/137/wee-dragonauts?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/4/14fd3734-8c28-4bd0-b202-eee1ab98c328.jpg?1593272836
+  normal: https://cards.scryfall.io/normal/front/1/4/14fd3734-8c28-4bd0-b202-eee1ab98c328.jpg?1593272836
+  large: https://cards.scryfall.io/large/front/1/4/14fd3734-8c28-4bd0-b202-eee1ab98c328.jpg?1593272836
+  png: https://cards.scryfall.io/png/front/1/4/14fd3734-8c28-4bd0-b202-eee1ab98c328.png?1593272836
+  art_crop: https://cards.scryfall.io/art_crop/front/1/4/14fd3734-8c28-4bd0-b202-eee1ab98c328.jpg?1593272836
+  border_crop: https://cards.scryfall.io/border_crop/front/1/4/14fd3734-8c28-4bd0-b202-eee1ab98c328.jpg?1593272836
+mana_cost: "{1}{U}{R}"
+cmc: 3.0
+type_line: Creature — Faerie Wizard
+oracle_text: |-
+  Flying
+  Whenever you cast an instant or sorcery spell, Wee Dragonauts gets +2/+0 until end of turn.
+power: '1'
+toughness: '3'
+colors:
+- R
+- U
+color_identity:
+- R
+- U
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 594b4d09-8ce1-494d-bdb2-842c124bd087
+set: gpt
+set_name: Guildpact
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/594b4d09-8ce1-494d-bdb2-842c124bd087
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Agpt&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/gpt?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/14fd3734-8c28-4bd0-b202-eee1ab98c328/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae9e56b1d-5ad2-4807-8c4c-1a1a6a25ecbf&unique=prints
+collector_number: '137'
+digital: false
+rarity: common
+watermark: izzet
+flavor_text: |-
+  "The blazekite is a simple concept, really—just a vehicular application of dragscoop ionics and electropropulsion magnetronics."
+  —Juzba, Izzet tinker
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Greg Staples
+artist_ids:
+- 93d65564-bf00-447b-8406-e2031f03b6b1
+illustration_id: 4f40bac8-6435-48fa-9ab1-5d73e2c37ff8
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 10871
+penny_rank: 5085
+prices:
+  usd: '0.06'
+  usd_foil: '0.36'
+  usd_etched: 
+  eur: '0.20'
+  eur_foil: '0.18'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=96903
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Wee+Dragonauts&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Wee+Dragonauts&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Wee+Dragonauts
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/13806?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Wee+Dragonauts&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/23719?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

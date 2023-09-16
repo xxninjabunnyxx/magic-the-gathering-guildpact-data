@@ -1,0 +1,116 @@
+---
+object: card
+id: e98f5890-a494-4609-acae-f9e9bacd991d
+oracle_id: 90ba0366-57ff-4dc4-a290-3925548129ce
+multiverse_ids:
+- 96906
+mtgo_id: 23723
+mtgo_foil_id: 23724
+tcgplayer_id: 13801
+cardmarket_id: 13283
+name: Train of Thought
+lang: en
+released_at: '2006-02-03'
+uri: https://api.scryfall.com/cards/e98f5890-a494-4609-acae-f9e9bacd991d
+scryfall_uri: https://scryfall.com/card/gpt/39/train-of-thought?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/9/e98f5890-a494-4609-acae-f9e9bacd991d.jpg?1593272115
+  normal: https://cards.scryfall.io/normal/front/e/9/e98f5890-a494-4609-acae-f9e9bacd991d.jpg?1593272115
+  large: https://cards.scryfall.io/large/front/e/9/e98f5890-a494-4609-acae-f9e9bacd991d.jpg?1593272115
+  png: https://cards.scryfall.io/png/front/e/9/e98f5890-a494-4609-acae-f9e9bacd991d.png?1593272115
+  art_crop: https://cards.scryfall.io/art_crop/front/e/9/e98f5890-a494-4609-acae-f9e9bacd991d.jpg?1593272115
+  border_crop: https://cards.scryfall.io/border_crop/front/e/9/e98f5890-a494-4609-acae-f9e9bacd991d.jpg?1593272115
+mana_cost: "{1}{U}"
+cmc: 2.0
+type_line: Sorcery
+oracle_text: |-
+  Replicate {1}{U} (When you cast this spell, copy it for each time you paid its replicate cost.)
+  Draw a card.
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Replicate
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 594b4d09-8ce1-494d-bdb2-842c124bd087
+set: gpt
+set_name: Guildpact
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/594b4d09-8ce1-494d-bdb2-842c124bd087
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Agpt&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/gpt?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e98f5890-a494-4609-acae-f9e9bacd991d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A90ba0366-57ff-4dc4-a290-3925548129ce&unique=prints
+collector_number: '39'
+digital: false
+rarity: common
+watermark: izzet
+flavor_text: '"But then . . . oh, but . . . which means . . . which would lead to
+  . . . exactly!"'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Matt Thompson
+artist_ids:
+- 469f170d-e056-4cfd-893a-458ef021ab73
+illustration_id: d38058f0-6837-4f85-b9d1-83215ca1e421
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 15749
+penny_rank: 10303
+prices:
+  usd: '0.10'
+  usd_foil: '0.33'
+  usd_etched: 
+  eur: '0.03'
+  eur_foil: '0.10'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=96906
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Train+of+Thought&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Train+of+Thought&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Train+of+Thought
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/13801?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Train+of+Thought&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/23723?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
